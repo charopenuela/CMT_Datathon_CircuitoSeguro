@@ -30,4 +30,3 @@ Angela Charris.
 6. Validar que el modelo cumple con  los  objetivos  del  negocio  y es  útil para la toma de decisiones.
 7. Visualizaciones y diseño del dashboard.
 8. Presentación de resultados.
-9. Presentación de la solución.
