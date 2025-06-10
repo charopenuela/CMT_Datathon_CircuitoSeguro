@@ -7,19 +7,27 @@ Ciertos factores (como el tipo de accidente, ubicación, hora del día, perfil d
 # Problema.
 ¿Cuáles son los factores que permiten predecir si un accidente eléctrico será grave (muerte) en la empresa, utilizando las variables disponibles en la base de datos histórica de accidentes eléctricos?
 # ¿Qué hace el proyecto?
-Este proyecto, a través del entrenamiento de un modelo predictivo, su interpretación, y el análisis de datos, permitirá priorizar estrategias de prevención efectivas de accidentes eléctricos graves (muerte) en la empresa Grupo Electra. 
+Este proyecto a través del análisis, visualización y creación de un  modelo predictivo, permitirá priorizar estrategias de prevención efectivas de accidentes eléctricos graves (muerte) en la empresa Grupo Electra. 
 # Enfoque.
-Enfoque Predictivo de los factores más importantes que predicen la ocurrencia de accidentes eléctricos graves (con resultado de muerte) en la empresa, lo que permite priorizar intervenciones preventivas para reducir su incidencia.
+Enfoque Predictivo de la ocurrencia de accidentes eléctricos graves (con resultado de muerte) en la empresa, permite priorizar intervenciones preventivas para reducir su incidencia.
 # Roles.
-La metodología seleccionada para la ejecución del proyecto fue una combinación de Scrum con Kanban.
+La metodología seleccionada para la ejecución del proyecto fue una combinación de Scrum con Kanban. Los roles y las personas a cargo de los mismos son:
 Product Owner: Virginia Guerrero Cogollo.
-Scrum Master: Deisy Suárez Molina.
+Scrum Master: Rosario Peñuela Bermejo.
 Development Team:
 Bianis Ballesteros Bárcenas.
 Paula Martínez Lambraño.
+Deisy Suárez Molina.
 Julieth Algarín Incapie.
-Rosario Peñuela Bermejo.
 Cindy Villalobos.
 Angela Charris.
 # Pasos Realizados
-
+1. Entender el negocio.
+2. Entender los datos.
+3. Exploración y limpieza de datos.
+4. Establecer una hipótesis clara.
+5. Desarrollar el modelo que de solución al problema planteado en la hiótesis.
+6. Validar que el modelo cumple con  los  objetivos  del  negocio  y es  útil para la toma de decisiones.
+7. Visualizaciones y diseño del dashboard.
+8. Presentación de resultados.
+9. Presentación de la solución.
