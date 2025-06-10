@@ -1,20 +1,17 @@
 # Datathon Conexión Mujeres TIC.
-El objetivo principal de esta datathoon es aprender y poner en práctica lo aprendido en el marco del programa de formación y fortalecimiento de competencias en análisis de datos bajo la iniciativa CONEXIÓN MUJERES TIC, iniciativa de la Alcaldía de Barranquilla, en colaboración con la Triple A y el apoyo de la Fundación Loreal y la Cámara de Industria y Comercio Colombo Alemana. 
-# CircuitoSeguro: Análisis de Datos para predecir y prevenir accidentes eléctricos en la empresa Electra.
-La empresa ficticia del sector eléctrico, Electra, desea reducir el número y la gravedad de los accidentes eléctricos en su operación. Cuenta con una base de datos histórica de accidentes eléctricos ocurridos en diferentes contextos y desea identificar patrones, factores de riesgo y posibles medidas de prevención.
-Hipótesis:
+El objetivo principal de esta datathoon es aprender y poner en práctica lo aprendido en el marco del programa de formación y fortalecimiento de competencias en análisis de datos bajo la iniciativa de la Alcaldía de Barranquilla: CONEXIÓN MUJERES TIC, en colaboración con la Triple A y el apoyo de la Fundación Loreal y la Cámara de Industria y Comercio Colombo Alemana. 
+# CircuitoSeguro: Análisis de Datos para predecir y prevenir accidentes eléctricos en la empresa Grupo Electra.
+La empresa ficticia del sector eléctrico, Grupo Electra, desea reducir el número y la gravedad de los accidentes eléctricos en su operación. Cuenta con una base de datos histórica de accidentes eléctricos ocurridos en diferentes contextos y desea identificar patrones, factores de riesgo y posibles medidas de prevención.
+# Hipótesis:
 Ciertos factores (como el tipo de accidente, ubicación, hora del día, perfil de la víctima o causa reportada) influyen significativamente en la gravedad de los accidentes eléctricos reportados, y su identificación permitirá priorizar estrategias de prevención más efectivas.
-Problema:
-¿Cuáles son los principales factores asociados a la ocurrencia y gravedad de los accidentes eléctricos en la empresa, y cómo puede priorizarse la intervención preventiva para reducir su incidencia?
-hipótesis, enfoque, roles y pasos realizados
-
-¿Qué hace el proyecto?
-¿Por qué es útil el proyecto?
-¿Cómo pueden empezar los usuarios con el proyecto?
-¿Dónde pueden obtener ayuda los usuarios con su proyecto?
-¿Quién mantiene y contribuye al proyecto?
-
+# Problema:
+¿Cuáles son los factores que permiten predecir si un accidente eléctrico será grave (muerte) en la empresa, utilizando las variables disponibles en la base de datos histórica de accidentes eléctricos?
+# ¿Qué hace el proyecto?
+Este proyecto, a través del entrenamiento de un modelo predictivo, su interpretación, y el análisis de datos, permitirá priorizar estrategias de prevención efectivas de accidentes eléctricos graves (muerte) en la empresa Grupo Electra. 
+# Enfoque:
+Enfoque Predictivo de los factores más importantes que predicen la ocurrencia de accidentes eléctricos graves (con resultado de muerte) en la empresa, lo que permite priorizar intervenciones preventivas para reducir su incidencia.
+# Roles:
+La metodología seleccionada para la ejecución del proyecto fue una combinación de Scrum con Kanban. Los roles son:
 
 
-Limpiar datos, analizarlos, visualizarlos, crear modelos predictivos y contar una historia que explique lo que descubriste.
-Reto de análisis de datos de trabajo en equipo para resolver la pregunta:  "¿Cuáles son los principales factores asociados a la ocurrencia y gravedad de los accidentes eléctricos en la empresa, y cómo puede priorizarse la intervención preventiva para reducir su incidencia?
+# Pasos Realizados
