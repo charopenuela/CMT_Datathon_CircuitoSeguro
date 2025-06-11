@@ -1,16 +1,16 @@
-# Datathon Conexión Mujeres TIC.
+# Datathon Conexión Mujeres TIC
 El objetivo principal de esta datathoon es aprender y poner en práctica lo aprendido en el marco del programa de formación y fortalecimiento de competencias en análisis de datos bajo la iniciativa de la Alcaldía de Barranquilla: CONEXIÓN MUJERES TIC, en colaboración con la Triple A y el apoyo de la Fundación Loreal y la Cámara de Industria y Comercio Colombo Alemana. 
-# CircuitoSeguro: Análisis de Datos para predecir y prevenir accidentes eléctricos en la empresa Grupo Electra.
+# CircuitoSeguro: Análisis de Datos para predecir y prevenir accidentes eléctricos en la empresa Grupo Electra
 La empresa ficticia del sector eléctrico, Grupo Electra, desea reducir el número y la gravedad de los accidentes eléctricos en su operación. Cuenta con una base de datos histórica de accidentes eléctricos ocurridos en diferentes contextos y desea identificar patrones, factores de riesgo y posibles medidas de prevención.
-# Hipótesis.
+# Hipótesis
 Ciertos factores (como el tipo de accidente, ubicación, hora del día, perfil de la víctima o causa reportada) influyen significativamente en la gravedad de los accidentes eléctricos reportados, y su identificación permitirá priorizar estrategias de prevención más efectivas.
-# Problema.
+# Problema
 ¿Cuáles son los factores que permiten predecir si un accidente eléctrico será grave (muerte) en la empresa, utilizando las variables disponibles en la base de datos histórica de accidentes eléctricos?
 # ¿Qué hace el proyecto?
 Este proyecto a través del análisis, visualización y creación de un  modelo predictivo, permitirá priorizar estrategias de prevención efectivas de accidentes eléctricos graves (muerte) en la empresa Grupo Electra. 
-# Enfoque.
+# Enfoque
 Enfoque Predictivo de la ocurrencia de accidentes eléctricos graves (con resultado de muerte) en la empresa, permite priorizar intervenciones preventivas para reducir su incidencia.
-# Roles.
+# Roles
 La metodología seleccionada para la ejecución del proyecto fue una combinación de Scrum con Kanban. Los roles y las personas a cargo de los mismos son:
 Product Owner: Virginia Guerrero Cogollo.
 Scrum Master: Rosario Peñuela Bermejo.
