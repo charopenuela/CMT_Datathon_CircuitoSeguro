@@ -3,7 +3,7 @@ El objetivo principal de esta datathoon es aprender y poner en práctica lo apre
 # CircuitoSeguro: Análisis de Datos para predecir y prevenir accidentes eléctricos en la empresa Grupo Electra
 La empresa ficticia del sector eléctrico, Grupo Electra, desea reducir el número y la gravedad de los accidentes eléctricos en su operación. Cuenta con una base de datos histórica de accidentes eléctricos ocurridos en diferentes contextos y desea identificar patrones, factores de riesgo y posibles medidas de prevención.
 # Hipótesis
-Las características relacionadas con la vinculación laboral, el área de operación, la antigüedad en el cargo y la causa del accidente permiten predecir, con un nivel aceptable de sensibilidad, la ocurrencia de accidentes eléctricos graves (con resultado de muerte) en la empresa.
+Las características relacionadas con la vinculación laboral, el área de operación, la antigüedad en el cargo, la causa del accidente, así como otras variables disponibles en la base de datos, permiten predecir, con un nivel aceptable de sensibilidad, la ocurrencia de accidentes eléctricos graves (con resultado de muerte) en la empresa.
 
 Variables consideradas:
   * Tipo de vinculación laboral.
