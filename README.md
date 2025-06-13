@@ -12,7 +12,7 @@ Variables consideradas:
   * Causa del accidente.
   * Otras variables disponibles en la base de datos.
 # Justificación:
-Se plantea que, mediante la aplicación de técnicas de aprendizaje automático y el balanceo de clases, es posible identificar patrones en los datos históricos que diferencien los accidentes graves de los no graves, permitiendo así priorizar intervenciones preventivas.
+Cada año en Colombia se reportan numerosos accidentes eléctricos con resultados fatales. Cada accidente mortal representa una pérdida humana irreparable, afectando directamente a familias, comunidades y organizaciones. Ante esta situación, era esencial encontrar una solución efectiva para anticipar estos eventos críticos.Se plantea que, mediante la aplicación de técnicas de aprendizaje automático y el balanceo de clases, es posible identificar patrones en los datos históricos que diferencien los accidentes graves de los no graves, permitiendo así priorizar intervenciones preventivas.
 # Problema
 ¿Cuáles son los factores que permiten predecir si un accidente eléctrico será grave (muerte) en la empresa, utilizando las variables disponibles en la base de datos histórica de accidentes eléctricos?
 # ¿Qué hace el proyecto?
