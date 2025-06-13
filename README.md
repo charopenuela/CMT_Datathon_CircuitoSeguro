@@ -55,3 +55,13 @@ Este dashboard incluye:
 - Evolución temporal de los accidentes
 
 > 🧠 **Objetivo:** Facilitar la toma de decisiones preventivas basadas en análisis predictivo con Machine Learning.
+
+## 🎥 Presentación del Proyecto – Circuito Seguro
+
+🎯 Mira la presentación tipo TED Talk que resume el reto, el análisis de datos y las soluciones propuestas:
+
+👉 [Ver presentación en Canva]([https://www.canva.com/design/DAGp6Wr-Zrk/xnoYHnBeSeQ6YHM9ELTeNQ/edit?utm_content=DAGp6Wr-Zrk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGp6Wr-Zrk/M1fzXU1-kpMNo4cbhpA9Ag/view?utm_content=DAGp6Wr-Zrk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0ffcd3750c)
+
+![Presentación en Canva](https://static.canva.com/web/images/1542d72e613f9463530c7cf49e9e5fd3.png)
+
+> 💡 *Esta presentación fue diseñada como parte del Datathon “Conexión Mujeres TIC” 
