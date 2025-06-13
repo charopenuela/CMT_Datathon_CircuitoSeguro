@@ -39,3 +39,19 @@ Development Team:
 6. Validar que el modelo cumple con  los  objetivos  del  negocio  y es  útil para la toma de decisiones.
 7. Visualizaciones y diseño del dashboard.
 8. Presentación de resultados.
+## 📊 Dashboard Interactivo en Tableau – Circuito Seguro
+
+Visualiza nuestro dashboard con los resultados del análisis y predicción de accidentes eléctricos:
+
+👉 [Ver Dashboard en Tableau Public](https://public.tableau.com/views/CircuitoSeguro/CircuitoSeguro?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+![Dashboard Circuito Seguro](https://public.tableau.com/static/images/Ci/CircuitoSeguro/CircuitoSeguro/1.png)
+
+Este dashboard incluye:
+- Accidentes graves y no graves por tipo de vinculación
+- Distribución geográfica por municipio y empresa
+- Curva de predicción y probabilidad de accidentes graves
+- Causas y horarios más frecuentes
+- Evolución temporal de los accidentes
+
+> 🧠 **Objetivo:** Facilitar la toma de decisiones preventivas basadas en análisis predictivo con Machine Learning.
