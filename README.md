@@ -21,15 +21,15 @@ Este proyecto a través del análisis, visualización y creación de un  modelo 
 Enfoque Predictivo de la ocurrencia de accidentes eléctricos graves (con resultado de muerte) en la empresa, permite priorizar intervenciones preventivas para reducir su incidencia.
 # Roles
 La metodología seleccionada para la ejecución del proyecto fue una combinación de Scrum con Kanban. Los roles y las personas a cargo de los mismos son:
-Product Owner: Virginia Guerrero Cogollo.
-Scrum Master: Rosario Peñuela Bermejo.
+* Product Owner: Virginia Guerrero Cogollo.
+* Scrum Master: Rosario Peñuela Bermejo.
 Development Team:
-Bianis Ballesteros Bárcenas.
-Paula Martínez Lambraño.
-Deisy Suárez Molina.
-Julieth Algarín Incapie.
-Cindy Villalobos.
-Angela Charris.
+ * Paula Martínez Lambraño.
+ * Bianis Ballesteros Bárcenas.
+ * Deisy Suárez Molina.
+ * Julieth Algarín Incapie.
+ * Cindy Villalobos.
+ * Angela Charris.
 # Pasos Realizados
 1. Entender el negocio.
 2. Entender los datos.
