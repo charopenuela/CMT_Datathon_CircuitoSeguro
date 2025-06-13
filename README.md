@@ -3,7 +3,15 @@ El objetivo principal de esta datathoon es aprender y poner en práctica lo apre
 # CircuitoSeguro: Análisis de Datos para predecir y prevenir accidentes eléctricos en la empresa Grupo Electra
 La empresa ficticia del sector eléctrico, Grupo Electra, desea reducir el número y la gravedad de los accidentes eléctricos en su operación. Cuenta con una base de datos histórica de accidentes eléctricos ocurridos en diferentes contextos y desea identificar patrones, factores de riesgo y posibles medidas de prevención.
 # Hipótesis
-Ciertos factores (como el tipo de accidente, ubicación, hora del día, perfil de la víctima o causa reportada) influyen significativamente en la gravedad de los accidentes eléctricos reportados, y su identificación permitirá priorizar estrategias de prevención más efectivas.
+Las características relacionadas con la vinculación laboral, el área de operación, la antigüedad en el cargo y la causa del accidente permiten predecir, con un nivel aceptable de sensibilidad, la ocurrencia de accidentes eléctricos graves (con resultado de muerte) en la empresa.
+Variables consideradas:
+  * Tipo de vinculación laboral.
+  * Área de operación.
+  * Antigüedad en el cargo.
+  * Causa del accidente.
+  * Otras variables disponibles en la base de datos.
+# Justificación:
+Se plantea que, mediante la aplicación de técnicas de aprendizaje automático y el balanceo de clases, es posible identificar patrones en los datos históricos que diferencien los accidentes graves de los no graves, permitiendo así priorizar intervenciones preventivas.
 # Problema
 ¿Cuáles son los factores que permiten predecir si un accidente eléctrico será grave (muerte) en la empresa, utilizando las variables disponibles en la base de datos histórica de accidentes eléctricos?
 # ¿Qué hace el proyecto?
