@@ -27,7 +27,7 @@ Development Team:
    Paula Martínez Lambraño.
    Bianis Ballesteros Bárcenas.
    Deisy Suárez Molina.
-   Julieth Algarín Incapie.
+   Julieth Algarín Hincapié.
    Cindy Villalobos.
    Angela Charris.
 # Pasos Realizados
