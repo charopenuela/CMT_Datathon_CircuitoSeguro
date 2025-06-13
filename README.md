@@ -23,6 +23,7 @@ Enfoque Predictivo de la ocurrencia de accidentes eléctricos graves (con result
 La metodología seleccionada para la ejecución del proyecto fue una combinación de Scrum con Kanban. Los roles y las personas a cargo de los mismos son:
 * Product Owner: Virginia Guerrero Cogollo.
 * Scrum Master: Rosario Peñuela Bermejo.
+
 Development Team:
  * Paula Martínez Lambraño.
  * Bianis Ballesteros Bárcenas.
